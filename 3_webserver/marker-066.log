@@ -1,0 +1,27 @@
+cc -MM *.c > .depend
+cc -g -Wall -Werror   -c -o server.o server.c
+cc -g -Wall -Werror   -c -o server_thread.o server_thread.c
+cc -g -Wall -Werror   -c -o request.o request.c
+cc -g -Wall -Werror   -c -o common.o common.c
+cc   server.o server_thread.o request.o common.o -lm -lpthread -lpopt  -o server
+cc -g -Wall -Werror   -c -o client_simple.o client_simple.c
+cc   client_simple.o common.o -lm -lpthread -lpopt  -o client_simple
+cc -g -Wall -Werror   -c -o client.o client.c
+cc   client.o common.o -lm -lpthread -lpopt  -o client
+cc -g -Wall -Werror   -c -o fileset.o fileset.c
+cc   fileset.o common.o -lm -lpthread -lpopt  -o fileset
+Running: /cad2/ece344f/tester/scripts/lab5-01-webserver.py 
+webserver test
+starting server at port 38209
+Traceback (most recent call last):
+  File "/cad2/ece344f/tester/scripts/lab5-01-webserver.py", line 116, in <module>
+    main()
+  File "/cad2/ece344f/tester/scripts/lab5-01-webserver.py", line 112, in main
+    kill_process('./run-one-experiment')
+  File "/cad2/ece344f/tester/scripts/lab5-01-webserver.py", line 13, in kill_process
+    os.kill(int(pid), signal.SIGKILL)
+OSError: [Errno 1] Operation not permitted
+Mark for webserver test is 150 out of 150
+PASS
+
+You have received 150 marks out of a total of 150 marks.
