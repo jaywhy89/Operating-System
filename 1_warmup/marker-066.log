@@ -1,0 +1,17 @@
+cc -MM *.c > .depend
+cc -g -Wall -Werror    hi.c -lm  -o hi
+cc -g -Wall -Werror    hello.c -lm  -o hello
+cc -g -Wall -Werror    words.c -lm  -o words
+cc -g -Wall -Werror    fact.c -lm  -o fact
+cc -g -Wall -Werror   -c -o point.o point.c
+cc -g -Wall -Werror    test_point.c point.o -lm  -o test_point
+cc -g -Wall -Werror   -c -o sorted_points.o sorted_points.c
+cc -g -Wall -Werror    test_sorted_points.c point.o sorted_points.o -lm  -o test_sorted_points
+cc -g -Wall -Werror   -c -o wc.o wc.c
+cc -g -Wall -Werror    test_wc.c wc.o -lm  -o test_wc
+Running: /cad2/ece344f/tester/scripts/lab1-01-warmup.py 
+warmup test
+Mark for warmup test is 40 out of 40
+PASS
+
+You have received 40 marks out of a total of 40 marks.
