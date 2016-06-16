@@ -1,0 +1,1552 @@
+starting basic test
+initial thread returns from yield(SELF)
+initial thread returns from yield(0)
+initial thread returns from yield(ANY)
+initial thread returns from yield(INVALID)
+initial thread returns from yield(INVALID2)
+current id is 1
+my id is 0
+message: hello from first thread
+thread returns from  first yield
+thread returns from second yield
+current id is 2
+current id is 3
+current id is 4
+current id is 5
+current id is 6
+current id is 7
+current id is 8
+current id is 9
+current id is 10
+current id is 11
+current id is 12
+current id is 13
+current id is 14
+current id is 15
+current id is 16
+current id is 17
+current id is 18
+current id is 19
+current id is 20
+current id is 21
+current id is 22
+current id is 23
+current id is 24
+current id is 25
+current id is 26
+current id is 27
+current id is 28
+current id is 29
+current id is 30
+current id is 31
+current id is 32
+current id is 33
+current id is 34
+current id is 35
+current id is 36
+current id is 37
+current id is 38
+current id is 39
+current id is 40
+current id is 41
+current id is 42
+current id is 43
+current id is 44
+current id is 45
+current id is 46
+current id is 47
+current id is 48
+current id is 49
+current id is 50
+current id is 51
+current id is 52
+current id is 53
+current id is 54
+current id is 55
+current id is 56
+current id is 57
+current id is 58
+current id is 59
+current id is 60
+current id is 61
+current id is 62
+current id is 63
+current id is 64
+current id is 65
+current id is 66
+current id is 67
+current id is 68
+current id is 69
+current id is 70
+current id is 71
+current id is 72
+current id is 73
+current id is 74
+current id is 75
+current id is 76
+current id is 77
+current id is 78
+current id is 79
+current id is 80
+current id is 81
+current id is 82
+current id is 83
+current id is 84
+current id is 85
+current id is 86
+current id is 87
+current id is 88
+current id is 89
+current id is 90
+current id is 91
+current id is 92
+current id is 93
+current id is 94
+current id is 95
+current id is 96
+current id is 97
+current id is 98
+current id is 99
+current id is 100
+current id is 101
+current id is 102
+current id is 103
+current id is 104
+current id is 105
+current id is 106
+current id is 107
+current id is 108
+current id is 109
+current id is 110
+current id is 111
+current id is 112
+current id is 113
+current id is 114
+current id is 115
+current id is 116
+current id is 117
+current id is 118
+current id is 119
+current id is 120
+current id is 121
+current id is 122
+current id is 123
+current id is 124
+current id is 125
+current id is 126
+current id is 127
+current id is 128
+current id is 129
+my id is 0
+message: hello from thread   0
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread   1
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread   2
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread   3
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread   4
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread   5
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread   6
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread   7
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread   8
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread   9
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  10
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  11
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  12
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  13
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  14
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  15
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  16
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  17
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  18
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  19
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  20
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  21
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  22
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  23
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  24
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  25
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  26
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  27
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  28
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  29
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  30
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  31
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  32
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  33
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  34
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  35
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  36
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  37
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  38
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  39
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  40
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  41
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  42
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  43
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  44
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  45
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  46
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  47
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  48
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  49
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  50
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  51
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  52
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  53
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  54
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  55
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  56
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  57
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  58
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  59
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  60
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  61
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  62
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  63
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  64
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  65
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  66
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  67
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  68
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  69
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  70
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  71
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  72
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  73
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  74
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  75
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  76
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  77
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  78
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  79
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  80
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  81
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  82
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  83
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  84
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  85
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  86
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  87
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  88
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  89
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  90
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  91
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  92
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  93
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  94
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  95
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  96
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  97
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  98
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread  99
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread 100
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread 101
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread 102
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread 103
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread 104
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread 105
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread 106
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread 107
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread 108
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread 109
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread 110
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread 111
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread 112
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread 113
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread 114
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread 115
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread 116
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread 117
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread 118
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread 119
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread 120
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread 121
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread 122
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread 123
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread 124
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread 125
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread 126
+thread returns from  first yield
+thread returns from second yield
+message: hello from thread 127
+thread returns from  first yield
+thread returns from second yield
+destroying all threads
+creating  1023 threads
+current id is 1
+current id is 2
+current id is 3
+current id is 4
+current id is 5
+current id is 6
+current id is 7
+current id is 8
+current id is 9
+current id is 10
+current id is 11
+current id is 12
+current id is 13
+current id is 14
+current id is 15
+current id is 16
+current id is 17
+current id is 18
+current id is 19
+current id is 20
+current id is 21
+current id is 22
+current id is 23
+current id is 24
+current id is 25
+current id is 26
+current id is 27
+current id is 28
+current id is 29
+current id is 30
+current id is 31
+current id is 32
+current id is 33
+current id is 34
+current id is 35
+current id is 36
+current id is 37
+current id is 38
+current id is 39
+current id is 40
+current id is 41
+current id is 42
+current id is 43
+current id is 44
+current id is 45
+current id is 46
+current id is 47
+current id is 48
+current id is 49
+current id is 50
+current id is 51
+current id is 52
+current id is 53
+current id is 54
+current id is 55
+current id is 56
+current id is 57
+current id is 58
+current id is 59
+current id is 60
+current id is 61
+current id is 62
+current id is 63
+current id is 64
+current id is 65
+current id is 66
+current id is 67
+current id is 68
+current id is 69
+current id is 70
+current id is 71
+current id is 72
+current id is 73
+current id is 74
+current id is 75
+current id is 76
+current id is 77
+current id is 78
+current id is 79
+current id is 80
+current id is 81
+current id is 82
+current id is 83
+current id is 84
+current id is 85
+current id is 86
+current id is 87
+current id is 88
+current id is 89
+current id is 90
+current id is 91
+current id is 92
+current id is 93
+current id is 94
+current id is 95
+current id is 96
+current id is 97
+current id is 98
+current id is 99
+current id is 100
+current id is 101
+current id is 102
+current id is 103
+current id is 104
+current id is 105
+current id is 106
+current id is 107
+current id is 108
+current id is 109
+current id is 110
+current id is 111
+current id is 112
+current id is 113
+current id is 114
+current id is 115
+current id is 116
+current id is 117
+current id is 118
+current id is 119
+current id is 120
+current id is 121
+current id is 122
+current id is 123
+current id is 124
+current id is 125
+current id is 126
+current id is 127
+current id is 128
+current id is 129
+current id is 130
+current id is 131
+current id is 132
+current id is 133
+current id is 134
+current id is 135
+current id is 136
+current id is 137
+current id is 138
+current id is 139
+current id is 140
+current id is 141
+current id is 142
+current id is 143
+current id is 144
+current id is 145
+current id is 146
+current id is 147
+current id is 148
+current id is 149
+current id is 150
+current id is 151
+current id is 152
+current id is 153
+current id is 154
+current id is 155
+current id is 156
+current id is 157
+current id is 158
+current id is 159
+current id is 160
+current id is 161
+current id is 162
+current id is 163
+current id is 164
+current id is 165
+current id is 166
+current id is 167
+current id is 168
+current id is 169
+current id is 170
+current id is 171
+current id is 172
+current id is 173
+current id is 174
+current id is 175
+current id is 176
+current id is 177
+current id is 178
+current id is 179
+current id is 180
+current id is 181
+current id is 182
+current id is 183
+current id is 184
+current id is 185
+current id is 186
+current id is 187
+current id is 188
+current id is 189
+current id is 190
+current id is 191
+current id is 192
+current id is 193
+current id is 194
+current id is 195
+current id is 196
+current id is 197
+current id is 198
+current id is 199
+current id is 200
+current id is 201
+current id is 202
+current id is 203
+current id is 204
+current id is 205
+current id is 206
+current id is 207
+current id is 208
+current id is 209
+current id is 210
+current id is 211
+current id is 212
+current id is 213
+current id is 214
+current id is 215
+current id is 216
+current id is 217
+current id is 218
+current id is 219
+current id is 220
+current id is 221
+current id is 222
+current id is 223
+current id is 224
+current id is 225
+current id is 226
+current id is 227
+current id is 228
+current id is 229
+current id is 230
+current id is 231
+current id is 232
+current id is 233
+current id is 234
+current id is 235
+current id is 236
+current id is 237
+current id is 238
+current id is 239
+current id is 240
+current id is 241
+current id is 242
+current id is 243
+current id is 244
+current id is 245
+current id is 246
+current id is 247
+current id is 248
+current id is 249
+current id is 250
+current id is 251
+current id is 252
+current id is 253
+current id is 254
+current id is 255
+current id is 256
+current id is 257
+current id is 258
+current id is 259
+current id is 260
+current id is 261
+current id is 262
+current id is 263
+current id is 264
+current id is 265
+current id is 266
+current id is 267
+current id is 268
+current id is 269
+current id is 270
+current id is 271
+current id is 272
+current id is 273
+current id is 274
+current id is 275
+current id is 276
+current id is 277
+current id is 278
+current id is 279
+current id is 280
+current id is 281
+current id is 282
+current id is 283
+current id is 284
+current id is 285
+current id is 286
+current id is 287
+current id is 288
+current id is 289
+current id is 290
+current id is 291
+current id is 292
+current id is 293
+current id is 294
+current id is 295
+current id is 296
+current id is 297
+current id is 298
+current id is 299
+current id is 300
+current id is 301
+current id is 302
+current id is 303
+current id is 304
+current id is 305
+current id is 306
+current id is 307
+current id is 308
+current id is 309
+current id is 310
+current id is 311
+current id is 312
+current id is 313
+current id is 314
+current id is 315
+current id is 316
+current id is 317
+current id is 318
+current id is 319
+current id is 320
+current id is 321
+current id is 322
+current id is 323
+current id is 324
+current id is 325
+current id is 326
+current id is 327
+current id is 328
+current id is 329
+current id is 330
+current id is 331
+current id is 332
+current id is 333
+current id is 334
+current id is 335
+current id is 336
+current id is 337
+current id is 338
+current id is 339
+current id is 340
+current id is 341
+current id is 342
+current id is 343
+current id is 344
+current id is 345
+current id is 346
+current id is 347
+current id is 348
+current id is 349
+current id is 350
+current id is 351
+current id is 352
+current id is 353
+current id is 354
+current id is 355
+current id is 356
+current id is 357
+current id is 358
+current id is 359
+current id is 360
+current id is 361
+current id is 362
+current id is 363
+current id is 364
+current id is 365
+current id is 366
+current id is 367
+current id is 368
+current id is 369
+current id is 370
+current id is 371
+current id is 372
+current id is 373
+current id is 374
+current id is 375
+current id is 376
+current id is 377
+current id is 378
+current id is 379
+current id is 380
+current id is 381
+current id is 382
+current id is 383
+current id is 384
+current id is 385
+current id is 386
+current id is 387
+current id is 388
+current id is 389
+current id is 390
+current id is 391
+current id is 392
+current id is 393
+current id is 394
+current id is 395
+current id is 396
+current id is 397
+current id is 398
+current id is 399
+current id is 400
+current id is 401
+current id is 402
+current id is 403
+current id is 404
+current id is 405
+current id is 406
+current id is 407
+current id is 408
+current id is 409
+current id is 410
+current id is 411
+current id is 412
+current id is 413
+current id is 414
+current id is 415
+current id is 416
+current id is 417
+current id is 418
+current id is 419
+current id is 420
+current id is 421
+current id is 422
+current id is 423
+current id is 424
+current id is 425
+current id is 426
+current id is 427
+current id is 428
+current id is 429
+current id is 430
+current id is 431
+current id is 432
+current id is 433
+current id is 434
+current id is 435
+current id is 436
+current id is 437
+current id is 438
+current id is 439
+current id is 440
+current id is 441
+current id is 442
+current id is 443
+current id is 444
+current id is 445
+current id is 446
+current id is 447
+current id is 448
+current id is 449
+current id is 450
+current id is 451
+current id is 452
+current id is 453
+current id is 454
+current id is 455
+current id is 456
+current id is 457
+current id is 458
+current id is 459
+current id is 460
+current id is 461
+current id is 462
+current id is 463
+current id is 464
+current id is 465
+current id is 466
+current id is 467
+current id is 468
+current id is 469
+current id is 470
+current id is 471
+current id is 472
+current id is 473
+current id is 474
+current id is 475
+current id is 476
+current id is 477
+current id is 478
+current id is 479
+current id is 480
+current id is 481
+current id is 482
+current id is 483
+current id is 484
+current id is 485
+current id is 486
+current id is 487
+current id is 488
+current id is 489
+current id is 490
+current id is 491
+current id is 492
+current id is 493
+current id is 494
+current id is 495
+current id is 496
+current id is 497
+current id is 498
+current id is 499
+current id is 500
+current id is 501
+current id is 502
+current id is 503
+current id is 504
+current id is 505
+current id is 506
+current id is 507
+current id is 508
+current id is 509
+current id is 510
+current id is 511
+current id is 512
+current id is 513
+current id is 514
+current id is 515
+current id is 516
+current id is 517
+current id is 518
+current id is 519
+current id is 520
+current id is 521
+current id is 522
+current id is 523
+current id is 524
+current id is 525
+current id is 526
+current id is 527
+current id is 528
+current id is 529
+current id is 530
+current id is 531
+current id is 532
+current id is 533
+current id is 534
+current id is 535
+current id is 536
+current id is 537
+current id is 538
+current id is 539
+current id is 540
+current id is 541
+current id is 542
+current id is 543
+current id is 544
+current id is 545
+current id is 546
+current id is 547
+current id is 548
+current id is 549
+current id is 550
+current id is 551
+current id is 552
+current id is 553
+current id is 554
+current id is 555
+current id is 556
+current id is 557
+current id is 558
+current id is 559
+current id is 560
+current id is 561
+current id is 562
+current id is 563
+current id is 564
+current id is 565
+current id is 566
+current id is 567
+current id is 568
+current id is 569
+current id is 570
+current id is 571
+current id is 572
+current id is 573
+current id is 574
+current id is 575
+current id is 576
+current id is 577
+current id is 578
+current id is 579
+current id is 580
+current id is 581
+current id is 582
+current id is 583
+current id is 584
+current id is 585
+current id is 586
+current id is 587
+current id is 588
+current id is 589
+current id is 590
+current id is 591
+current id is 592
+current id is 593
+current id is 594
+current id is 595
+current id is 596
+current id is 597
+current id is 598
+current id is 599
+current id is 600
+current id is 601
+current id is 602
+current id is 603
+current id is 604
+current id is 605
+current id is 606
+current id is 607
+current id is 608
+current id is 609
+current id is 610
+current id is 611
+current id is 612
+current id is 613
+current id is 614
+current id is 615
+current id is 616
+current id is 617
+current id is 618
+current id is 619
+current id is 620
+current id is 621
+current id is 622
+current id is 623
+current id is 624
+current id is 625
+current id is 626
+current id is 627
+current id is 628
+current id is 629
+current id is 630
+current id is 631
+current id is 632
+current id is 633
+current id is 634
+current id is 635
+current id is 636
+current id is 637
+current id is 638
+current id is 639
+current id is 640
+current id is 641
+current id is 642
+current id is 643
+current id is 644
+current id is 645
+current id is 646
+current id is 647
+current id is 648
+current id is 649
+current id is 650
+current id is 651
+current id is 652
+current id is 653
+current id is 654
+current id is 655
+current id is 656
+current id is 657
+current id is 658
+current id is 659
+current id is 660
+current id is 661
+current id is 662
+current id is 663
+current id is 664
+current id is 665
+current id is 666
+current id is 667
+current id is 668
+current id is 669
+current id is 670
+current id is 671
+current id is 672
+current id is 673
+current id is 674
+current id is 675
+current id is 676
+current id is 677
+current id is 678
+current id is 679
+current id is 680
+current id is 681
+current id is 682
+current id is 683
+current id is 684
+current id is 685
+current id is 686
+current id is 687
+current id is 688
+current id is 689
+current id is 690
+current id is 691
+current id is 692
+current id is 693
+current id is 694
+current id is 695
+current id is 696
+current id is 697
+current id is 698
+current id is 699
+current id is 700
+current id is 701
+current id is 702
+current id is 703
+current id is 704
+current id is 705
+current id is 706
+current id is 707
+current id is 708
+current id is 709
+current id is 710
+current id is 711
+current id is 712
+current id is 713
+current id is 714
+current id is 715
+current id is 716
+current id is 717
+current id is 718
+current id is 719
+current id is 720
+current id is 721
+current id is 722
+current id is 723
+current id is 724
+current id is 725
+current id is 726
+current id is 727
+current id is 728
+current id is 729
+current id is 730
+current id is 731
+current id is 732
+current id is 733
+current id is 734
+current id is 735
+current id is 736
+current id is 737
+current id is 738
+current id is 739
+current id is 740
+current id is 741
+current id is 742
+current id is 743
+current id is 744
+current id is 745
+current id is 746
+current id is 747
+current id is 748
+current id is 749
+current id is 750
+current id is 751
+current id is 752
+current id is 753
+current id is 754
+current id is 755
+current id is 756
+current id is 757
+current id is 758
+current id is 759
+current id is 760
+current id is 761
+current id is 762
+current id is 763
+current id is 764
+current id is 765
+current id is 766
+current id is 767
+current id is 768
+current id is 769
+current id is 770
+current id is 771
+current id is 772
+current id is 773
+current id is 774
+current id is 775
+current id is 776
+current id is 777
+current id is 778
+current id is 779
+current id is 780
+current id is 781
+current id is 782
+current id is 783
+current id is 784
+current id is 785
+current id is 786
+current id is 787
+current id is 788
+current id is 789
+current id is 790
+current id is 791
+current id is 792
+current id is 793
+current id is 794
+current id is 795
+current id is 796
+current id is 797
+current id is 798
+current id is 799
+current id is 800
+current id is 801
+current id is 802
+current id is 803
+current id is 804
+current id is 805
+current id is 806
+current id is 807
+current id is 808
+current id is 809
+current id is 810
+current id is 811
+current id is 812
+current id is 813
+current id is 814
+current id is 815
+current id is 816
+current id is 817
+current id is 818
+current id is 819
+current id is 820
+current id is 821
+current id is 822
+current id is 823
+current id is 824
+current id is 825
+current id is 826
+current id is 827
+current id is 828
+current id is 829
+current id is 830
+current id is 831
+current id is 832
+current id is 833
+current id is 834
+current id is 835
+current id is 836
+current id is 837
+current id is 838
+current id is 839
+current id is 840
+current id is 841
+current id is 842
+current id is 843
+current id is 844
+current id is 845
+current id is 846
+current id is 847
+current id is 848
+current id is 849
+current id is 850
+current id is 851
+current id is 852
+current id is 853
+current id is 854
+current id is 855
+current id is 856
+current id is 857
+current id is 858
+current id is 859
+current id is 860
+current id is 861
+current id is 862
+current id is 863
+current id is 864
+current id is 865
+current id is 866
+current id is 867
+current id is 868
+current id is 869
+current id is 870
+current id is 871
+current id is 872
+current id is 873
+current id is 874
+current id is 875
+current id is 876
+current id is 877
+current id is 878
+current id is 879
+current id is 880
+current id is 881
+current id is 882
+current id is 883
+current id is 884
+current id is 885
+current id is 886
+current id is 887
+current id is 888
+current id is 889
+current id is 890
+current id is 891
+current id is 892
+current id is 893
+current id is 894
+current id is 895
+current id is 896
+current id is 897
+current id is 898
+current id is 899
+current id is 900
+current id is 901
+current id is 902
+current id is 903
+current id is 904
+current id is 905
+current id is 906
+current id is 907
+current id is 908
+current id is 909
+current id is 910
+current id is 911
+current id is 912
+current id is 913
+current id is 914
+current id is 915
+current id is 916
+current id is 917
+current id is 918
+current id is 919
+current id is 920
+current id is 921
+current id is 922
+current id is 923
+current id is 924
+current id is 925
+current id is 926
+current id is 927
+current id is 928
+current id is 929
+current id is 930
+current id is 931
+current id is 932
+current id is 933
+current id is 934
+current id is 935
+current id is 936
+current id is 937
+current id is 938
+current id is 939
+current id is 940
+current id is 941
+current id is 942
+current id is 943
+current id is 944
+current id is 945
+current id is 946
+current id is 947
+current id is 948
+current id is 949
+current id is 950
+current id is 951
+current id is 952
+current id is 953
+current id is 954
+current id is 955
+current id is 956
+current id is 957
+current id is 958
+current id is 959
+current id is 960
+current id is 961
+current id is 962
+current id is 963
+current id is 964
+current id is 965
+current id is 966
+current id is 967
+current id is 968
+current id is 969
+current id is 970
+current id is 971
+current id is 972
+current id is 973
+current id is 974
+current id is 975
+current id is 976
+current id is 977
+current id is 978
+current id is 979
+current id is 980
+current id is 981
+current id is 982
+current id is 983
+current id is 984
+current id is 985
+current id is 986
+current id is 987
+current id is 988
+current id is 989
+current id is 990
+current id is 991
+current id is 992
+current id is 993
+current id is 994
+current id is 995
+current id is 996
+current id is 997
+current id is 998
+current id is 999
+current id is 1000
+current id is 1001
+current id is 1002
+current id is 1003
+current id is 1004
+current id is 1005
+current id is 1006
+current id is 1007
+current id is 1008
+current id is 1009
+current id is 1010
+current id is 1011
+current id is 1012
+current id is 1013
+current id is 1014
+current id is 1015
+current id is 1016
+current id is 1017
+current id is 1018
+current id is 1019
+current id is 1020
+current id is 1021
+current id is 1022
+current id is 1023
+running   1023 threads
+0 ?= 32768
+stacks of threads 513 and 514 are too close

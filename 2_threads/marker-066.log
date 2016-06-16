@@ -1,0 +1,71 @@
+cc -MM *.c > .depend
+cc -g -Wall -Werror -D_GNU_SOURCE   -c -o test_thread.o test_thread.c
+cc -g -Wall -Werror -D_GNU_SOURCE   -c -o thread.o thread.c
+cc -g -Wall -Werror -D_GNU_SOURCE   -c -o interrupt.o interrupt.c
+cc -g -Wall -Werror -D_GNU_SOURCE    show_ucontext.c test_thread.o thread.o interrupt.o   -o show_ucontext
+cc -g -Wall -Werror -D_GNU_SOURCE    show_handler.c test_thread.o thread.o interrupt.o   -o show_handler
+cc -g -Wall -Werror -D_GNU_SOURCE    test_basic.c test_thread.o thread.o interrupt.o   -o test_basic
+cc -g -Wall -Werror -D_GNU_SOURCE    test_preemptive.c test_thread.o thread.o interrupt.o   -o test_preemptive
+cc -g -Wall -Werror -D_GNU_SOURCE    test_wakeup.c test_thread.o thread.o interrupt.o   -o test_wakeup
+cc -g -Wall -Werror -D_GNU_SOURCE    test_wakeup_all.c test_thread.o thread.o interrupt.o   -o test_wakeup_all
+cc -g -Wall -Werror -D_GNU_SOURCE    test_lock.c test_thread.o thread.o interrupt.o   -o test_lock
+cc -g -Wall -Werror -D_GNU_SOURCE    test_cv_signal.c test_thread.o thread.o interrupt.o   -o test_cv_signal
+cc -g -Wall -Werror -D_GNU_SOURCE    test_cv_broadcast.c test_thread.o thread.o interrupt.o   -o test_cv_broadcast
+Running: /cad2/ece344f/tester/scripts/lab3-01-preemptive.py 
+preemptive test
+running 3 times
+Mark for preemptive test is 20 out of 20
+PASS
+
+Running: /cad2/ece344f/tester/scripts/lab3-02-wakeup.py 
+wakeup test
+running 3 times
+ERROR: TIMEOUT: not found: ^wakeup test done
+
+ERROR: TIMEOUT: not found: ^wakeup test done
+
+ERROR: TIMEOUT: not found: ^wakeup test done
+
+Mark for wakeup test is 6 out of 10
+FAIL
+
+Running: /cad2/ece344f/tester/scripts/lab3-03-wakeupall.py 
+wakeup all test
+running 3 times
+ERROR: TIMEOUT: not found: ^wakeup test done
+
+ERROR: TIMEOUT: not found: ^wakeup test done
+
+ERROR: TIMEOUT: not found: ^wakeup test done
+
+Mark for wakeup all test is 2 out of 6
+FAIL
+
+Running: /cad2/ece344f/tester/scripts/lab3-04-lock.py 
+lock test
+running 3 times
+ERROR: EOF: not found: ['^(\\d+): thread\\s+(\\d+) passes\r\n', '^lock test done\r\n']
+ERROR: EOF: not found: ['^(\\d+): thread\\s+(\\d+) passes\r\n', '^lock test done\r\n']
+ERROR: EOF: not found: ['^(\\d+): thread\\s+(\\d+) passes\r\n', '^lock test done\r\n']
+Mark for lock test is 0 out of 12
+FAIL
+
+Running: /cad2/ece344f/tester/scripts/lab3-05-cv-signal.py 
+cv signal test
+running 3 times
+ERROR: EOF: not found: ['^(\\d+): thread\\s+(\\d+) passes\r\n', '^cv signal test done\r\n']
+ERROR: EOF: not found: ['^(\\d+): thread\\s+(\\d+) passes\r\n', '^cv signal test done\r\n']
+ERROR: EOF: not found: ['^(\\d+): thread\\s+(\\d+) passes\r\n', '^cv signal test done\r\n']
+Mark for cv signal test is 0 out of 12
+FAIL
+
+Running: /cad2/ece344f/tester/scripts/lab3-06-cv-broadcast.py 
+cv broadcast test
+running 3 times
+ERROR: EOF: not found: ['^(\\d+): thread\\s+(\\d+) passes\r\n', '^cv broadcast test done\r\n']
+ERROR: EOF: not found: ['^(\\d+): thread\\s+(\\d+) passes\r\n', '^cv broadcast test done\r\n']
+ERROR: EOF: not found: ['^(\\d+): thread\\s+(\\d+) passes\r\n', '^cv broadcast test done\r\n']
+Mark for cv broadcast test is 0 out of 12
+FAIL
+
+You have received 28 marks out of a total of 72 marks.

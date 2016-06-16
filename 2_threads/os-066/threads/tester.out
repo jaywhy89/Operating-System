@@ -1,0 +1,6 @@
+preemptive test, 20, 20
+wakeup test, 6, 10
+wakeup all test, 2, 6
+lock test, 0, 12
+cv signal test, 0, 12
+cv broadcast test, 0, 12
